@@ -90,11 +90,6 @@ Este repositório tem como objetivo auxiliar estudantes e iniciantes a:
 - Navegador moderno (Chrome, Firefox, Safari...)
 - Editor de código (recomendado: VS Code)
 
----
-
-## 📝 Licença
-
-Distribuído sob a licença **MIT**. Sinta-se à vontade para usar, estudar ou contribuir!
 
 ---
 
