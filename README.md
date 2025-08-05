@@ -70,7 +70,7 @@ Aqui estão os principais assuntos disponíveis no repositório:
 
 1. Clone ou baixe o repositório:
    ```bash
-   [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/VianaLeo13/FuncoesHTML-CSS.git)
+   https://github.com/VianaLeo13/FuncoesHTML-CSS.git
    ```
 2. Abra os arquivos `.html` no navegador para visualizar os exemplos.
 3. Explore os arquivos `.css` para entender como os estilos são aplicados.
