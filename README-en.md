@@ -69,7 +69,7 @@ Here are the main topics available in this repository:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/html-css-examples.git
+   https://github.com/VianaLeo13/FuncoesHTML-CSS.git
    ```
 2. Open the `.html` files in your browser to view the examples.
 3. Explore the `.css` files to understand how the styles are applied.
