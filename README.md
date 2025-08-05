@@ -37,29 +37,31 @@ Aqui estão os principais assuntos disponíveis no repositório:
 ## 📁 Estrutura do repositório
 
 ```
-/html-css-exemplos/
+/html-css-examples/
 │
 ├── links/
-│   └── index.html
-│   └── style.css
+│   └── formatacao-links.html
+│   └── styleLink.css
 │
 ├── box-model/
-│   └── exemplo.html
-│   └── estilos.css
+│   └── modelo-caixa.html
+│   └── style.css
 │
-├── float/
-│   └── layout.html
-│   └── layout.css
+├── float-Elements/
+│   └── elementos-flutuantes.html
+│   └── float-elements.html
+│   └── StyleFloat.css
 │
-├── sobreposicao/
-│   └── exemplo.html
-│   └── estilos.css
+├── sobrepondo/
+│   └── sobrepondo.html
+│   └── Intern Css
 │
-├── position/
-│   └── posicionamento.html
-│   └── estilos.css
+├── positions/
+│   └── posicionamentos.html
+│   └── stylePosicionamentos.css
 │
 └── README.md
+└── README-en.md
 ```
 
 ---
