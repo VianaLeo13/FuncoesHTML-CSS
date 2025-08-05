@@ -94,10 +94,4 @@ This repository is intended to help students and beginners:
 
 ---
 
-## 🤝 Contributions
-
-Suggestions, corrections, and new ideas are always welcome! Feel free to submit a *pull request* or open an *issue*.
-
----
-
 > 💡 *“Consistent practice with small examples is the most solid path to mastering the web.”*
