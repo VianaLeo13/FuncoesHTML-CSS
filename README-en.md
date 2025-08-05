@@ -91,11 +91,6 @@ This repository is intended to help students and beginners:
 - A modern web browser (Chrome, Firefox, Safari...)
 - A code editor (recommended: VS Code)
 
----
-
-## 📝 License
-
-Distributed under the **MIT License**. Feel free to use, study, or contribute!
 
 ---
 
