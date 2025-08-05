@@ -95,10 +95,4 @@ Este repositório tem como objetivo auxiliar estudantes e iniciantes a:
 
 ---
 
-## 🤝 Contribuições
-
-Sugestões, correções e novas ideias são sempre bem-vindas! Envie um *pull request* ou abra uma *issue*.
-
----
-
 > 💡 *“A prática constante com pequenos exemplos é o caminho mais sólido para dominar a web.”*
