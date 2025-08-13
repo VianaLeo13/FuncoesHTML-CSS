@@ -2,7 +2,7 @@
     background: green;
     border: 5px solid red;
 }
-/*.conteudo{
+.conteudo{
     border: 1px solid red;
     padding-top: 10px;
     padding-right: 20px;
@@ -11,7 +11,7 @@
     padding: 10px 20px 20px 20px;
     margin: 20px;
     width: 150px;
-}*/
+}
 .conteudos{
     background: blue;
     border: 1px solid gray;
